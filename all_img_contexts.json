@@ -1,0 +1,682 @@
+[
+  {
+    "src": "images/logo/new.svg",
+    "tag": "<img src=\"images/logo/new.svg\" alt=\"logo\" class=\"size-full\" />",
+    "context": " backdrop-blur-[25px] lg:py-0\">\r\n  <nav class=\"relative mx-auto max-w-[1920px]\">\r\n    <div class=\"flex items-center justify-between xl:gap-20 2xl:gap-32\">\r\n      <a href=\"index.php\" class=\"flex items-center gap-1.5\">\r\n        <figure class=\"hidden h-full max-h-[40px] w-[166px] xl:block\">\r\n          <img src=\"images/logo/new.svg\" alt=\"logo\" class=\"size-full\" />\r\n         \r\n        </figure>\r\n        <figure class=\"block h-full  xl:hidden\">\r\n          <img src=\"images/logo/new.svg\" alt=\"logo\" class=\"size-full\" />\r\n       \r\n        </figure>\r\n      </a>\r\n\r\n      <ul class=\"hidden items-center gap"
+  },
+  {
+    "src": "images/logo/new.svg",
+    "tag": "<img src=\"images/logo/new.svg\" alt=\"logo\" class=\"size-full\" />",
+    "context": "\r\n      <a href=\"index.php\" class=\"flex items-center gap-1.5\">\r\n        <figure class=\"hidden h-full max-h-[40px] w-[166px] xl:block\">\r\n          <img src=\"images/logo/new.svg\" alt=\"logo\" class=\"size-full\" />\r\n         \r\n        </figure>\r\n        <figure class=\"block h-full  xl:hidden\">\r\n          <img src=\"images/logo/new.svg\" alt=\"logo\" class=\"size-full\" />\r\n       \r\n        </figure>\r\n      </a>\r\n\r\n      <ul class=\"hidden items-center gap-x-12 lg:flex\">\r\n        <li class=\"nav-item group/nav-item relative cursor-pointer py-6\"  >\r\n          <a href=\"index.php\" class=\"group flex items-center"
+  },
+  {
+    "src": "images/opai-img-59.jpg",
+    "tag": "<img\r\n            src=\"images/opai-img-59.jpg\"\r\n            alt=\"What's New\"\r\n            class=\"h-full w-full rounded-lg object-cover transition-transform duration-500 ease-in-out group-hover:scale-105\"\r\n          />",
+    "context": "ation-500 ease-in-out content-['']\"\r\n    >\r\n    </span>\r\n  </div>\r\n</a>\r\n\r\n          </a>\r\n        </div>\r\n      </div>\r\n    </div>\r\n    <div class=\"col-span-12 lg:col-span-4\">\r\n      <div>\r\n        <figure class=\"group mb-2.5 max-h-[150px] w-full max-w-full overflow-hidden rounded-2xl\">\r\n          <img\r\n            src=\"images/opai-img-59.jpg\"\r\n            alt=\"What's New\"\r\n            class=\"h-full w-full rounded-lg object-cover transition-transform duration-500 ease-in-out group-hover:scale-105\"\r\n          />\r\n        </figure>\r\n        <a\r\n          href=\"#\"\r\n          class=\"group relativ"
+  },
+  {
+    "src": "images/opai-img-60.png",
+    "tag": "<img\r\n                src=\"images/opai-img-60.png\"\r\n                alt=\"Featured\"\r\n                class=\"h-full w-full rounded-lg object-cover transition-transform duration-500 ease-in-out group-hover:scale-105\"\r\n              />",
+    "context": "n-12 h-full xl:col-span-6\">\r\n        <a href=\"blog.html\" class=\"block h-full\">\r\n          <article\r\n            class=\"border-stroke-3/20 group flex h-full flex-col justify-between space-y-3 rounded-2xl border p-3\"\r\n          >\r\n            <figure class=\"overflow-hidden rounded-lg\">\r\n              <img\r\n                src=\"images/opai-img-60.png\"\r\n                alt=\"Featured\"\r\n                class=\"h-full w-full rounded-lg object-cover transition-transform duration-500 ease-in-out group-hover:scale-105\"\r\n              />\r\n            </figure>\r\n            <div class=\"space-y-1 pb-2\">\r\n  "
+  },
+  {
+    "src": "images/opai-img-61.png",
+    "tag": "<img\r\n                src=\"images/opai-img-61.png\"\r\n                alt=\"Featured\"\r\n                class=\"h-full w-full rounded-lg object-cover transition-transform duration-500 ease-in-out group-hover:scale-105\"\r\n              />",
+    "context": "n-12 h-full xl:col-span-6\">\r\n        <a href=\"blog.html\" class=\"block h-full\">\r\n          <article\r\n            class=\"border-stroke-3/20 group flex h-full flex-col justify-between space-y-3 rounded-2xl border p-3\"\r\n          >\r\n            <figure class=\"overflow-hidden rounded-lg\">\r\n              <img\r\n                src=\"images/opai-img-61.png\"\r\n                alt=\"Featured\"\r\n                class=\"h-full w-full rounded-lg object-cover transition-transform duration-500 ease-in-out group-hover:scale-105\"\r\n              />\r\n            </figure>\r\n            <div class=\"space-y-1 pb-2\">\r\n  "
+  },
+  {
+    "src": "images/logo/logo-small.svg",
+    "tag": "<img src=\"images/logo/logo-small.svg\" alt=\"Optim AI\" class=\"size-full\" />",
+    "context": "der-l transition-all duration-300 sm:w-1/2 lg:hidden\"\r\n  aria-label=\"Mobile menu\"\r\n>\r\n  <div class=\"space-y-4 p-5 sm:p-8 lg:p-9\">\r\n    <div class=\"flex items-center justify-between\">\r\n      <a href=\"index.html\">\r\n        <span class=\"sr-only\">Home</span>\r\n        <figure class=\"size-11\">\r\n          <img src=\"images/logo/logo-small.svg\" alt=\"Optim AI\" class=\"size-full\" />\r\n        </figure>\r\n      </a>\r\n      <button\r\n        type=\"button\"\r\n        class=\"nav-hamburger-close relative flex size-10 cursor-pointer flex-col items-center justify-center gap-1.5 rounded-full bg-white/10 transition-col"
+  },
+  {
+    "src": "images/sincweb.webp",
+    "tag": "<img src=\"images/sincweb.webp\" alt=\"Hero Img\" class=\"size-full object-cover\"  fetchpriority=\"high\" loading=\"eager\" width=\"1288\" height=\"798\"/>",
+    "context": " </div>\r\n</a>\r\n\r\n      </div>\r\n    </div>\r\n\r\n    <div class=\"relative\" data-opai-animate data-delay=\"0.4\" data-instant=\"true\">\r\n      <!-- image  -->\r\n      <figure\r\n        class=\"shadow-2 relative z-2 mx-auto size-full max-w-[1288px] overflow-hidden rounded-md lg:rounded-[14px]\"\r\n      >\r\n        <img src=\"images/sincweb.webp\" alt=\"Hero Img\" class=\"size-full object-cover\"  fetchpriority=\"high\" loading=\"eager\" width=\"1288\" height=\"798\"/>\r\n      </figure>\r\n      <!-- effect image -->\r\n      <div\r\n        class=\"absolute top-[-11%] left-[50%] z-1 w-[calc(100%+50px)] -translate-x-1/2 md:w-[calc("
+  },
+  {
+    "src": "images/effect.png",
+    "tag": "<img src=\"images/effect.png\" alt=\"Hero img\" class=\"size-full\" />",
+    "context": "-cover\"  fetchpriority=\"high\" loading=\"eager\" width=\"1288\" height=\"798\"/>\r\n      </figure>\r\n      <!-- effect image -->\r\n      <div\r\n        class=\"absolute top-[-11%] left-[50%] z-1 w-[calc(100%+50px)] -translate-x-1/2 md:w-[calc(100%+100px)] lg:h-[600px] xl:w-[calc(100%+200px)]\"\r\n      >\r\n        <img src=\"images/effect.png\" alt=\"Hero img\" class=\"size-full\" />\r\n      </div>\r\n      <!-- bottom gradient -->\r\n      <div\r\n        class=\"absolute bottom-[-2%] left-0 z-3 h-[150px] w-full bg-linear-[180deg,rgba(13,16,23,0.00)_0%,#0D1017_93.95%] lg:h-[465px]\"\r\n      ></div>\r\n    </div>\r\n  </div>\r\n</"
+  },
+  {
+    "src": "images/gradient/opai-11.png",
+    "tag": "<img\r\n      src=\"images/gradient/opai-11.png\"\r\n      alt=\"Background gradient\"\r\n      class=\"pointer-events-none w-full object-cover select-none\"\r\n    />",
+    "context": "ckground-6 relative overflow-hidden py-16 md:py-27 lg:py-30 xl:py-44\">\r\n  <!-- Background Gradient -->\r\n  <div\r\n    data-opai-animate\r\n    data-delay=\"0.1\"\r\n    data-offset=\"100\"\r\n    class=\"absolute -bottom-[75%] left-1/2 h-full w-[160%] -translate-x-1/2 md:-bottom-[60%] lg:-bottom-[7%]\"\r\n  >\r\n    <img\r\n      src=\"images/gradient/opai-11.png\"\r\n      alt=\"Background gradient\"\r\n      class=\"pointer-events-none w-full object-cover select-none\"\r\n    />\r\n  </div>\r\n\r\n  <div class=\"main-container relative z-10 pb-10 md:pb-13 lg:pb-19\">\r\n    <div class=\"space-y-1.5 pb-5 text-center lg:space-y-3\">\r\n  "
+  },
+  {
+    "src": "images/icons/astro.svg",
+    "tag": "<img\r\n            src=\"images/icons/astro.svg\"\r\n            alt=\"Astro\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "a-delay=\"0.3\">\r\n      <div class=\"flex items-center justify-center gap-x-10 lg:gap-x-[69px]\">\r\n        <!-- Astro -->\r\n        <figure\r\n          class=\"bg-background-4 ml-10 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:ml-[69px] lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/astro.svg\"\r\n            alt=\"Astro\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Slack -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 m"
+  },
+  {
+    "src": "images/icons/slack.svg",
+    "tag": "<img\r\n            src=\"images/icons/slack.svg\"\r\n            alt=\"Slack\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "            alt=\"Astro\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Slack -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/slack.svg\"\r\n            alt=\"Slack\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Netflix -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5"
+  },
+  {
+    "src": "images/icons/netflix.svg",
+    "tag": "<img\r\n            src=\"images/icons/netflix.svg\"\r\n            alt=\"Netflix\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "          alt=\"Slack\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Netflix -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/netflix.svg\"\r\n            alt=\"Netflix\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Opera -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3"
+  },
+  {
+    "src": "images/icons/opera.svg",
+    "tag": "<img\r\n            src=\"images/icons/opera.svg\"\r\n            alt=\"Opera\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "          alt=\"Netflix\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Opera -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/opera.svg\"\r\n            alt=\"Opera\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- GitHub -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 "
+  },
+  {
+    "src": "images/icons/github.svg",
+    "tag": "<img\r\n            src=\"images/icons/github.svg\"\r\n            alt=\"GitHub\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />",
+    "context": "           alt=\"Opera\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- GitHub -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/github.svg\"\r\n            alt=\"GitHub\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Spotify -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360"
+  },
+  {
+    "src": "images/icons/spotify.svg",
+    "tag": "<img\r\n            src=\"images/icons/spotify.svg\"\r\n            alt=\"Spotify\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "  alt=\"GitHub\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Spotify -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/spotify.svg\"\r\n            alt=\"Spotify\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- YouTube -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p"
+  },
+  {
+    "src": "images/icons/youtube.svg",
+    "tag": "<img\r\n            src=\"images/icons/youtube.svg\"\r\n            alt=\"YouTube\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "        alt=\"Spotify\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- YouTube -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/youtube.svg\"\r\n            alt=\"YouTube\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- WhatsApp -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] "
+  },
+  {
+    "src": "images/icons/whatsapp.svg",
+    "tag": "<img\r\n            src=\"images/icons/whatsapp.svg\"\r\n            alt=\"WhatsApp\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "       alt=\"YouTube\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- WhatsApp -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/whatsapp.svg\"\r\n            alt=\"WhatsApp\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Telegram -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px"
+  },
+  {
+    "src": "images/icons/telegram.svg",
+    "tag": "<img\r\n            src=\"images/icons/telegram.svg\"\r\n            alt=\"Telegram\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "      alt=\"WhatsApp\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Telegram -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/telegram.svg\"\r\n            alt=\"Telegram\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- TikTok -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] "
+  },
+  {
+    "src": "images/icons/tiktok.svg",
+    "tag": "<img\r\n            src=\"images/icons/tiktok.svg\"\r\n            alt=\"TikTok\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "        alt=\"Telegram\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- TikTok -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/tiktok.svg\"\r\n            alt=\"TikTok\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- X (Twitter) -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px]"
+  },
+  {
+    "src": "images/icons/x.svg",
+    "tag": "<img src=\"images/icons/x.svg\" alt=\"X\" class=\"size-9 object-contain lg:size-10\" />",
+    "context": "     alt=\"TikTok\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- X (Twitter) -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img src=\"images/icons/x.svg\" alt=\"X\" class=\"size-9 object-contain lg:size-10\" />\r\n        </figure>\r\n\r\n        <!-- Pinterest -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n"
+  },
+  {
+    "src": "images/icons/pinterest.svg",
+    "tag": "<img\r\n            src=\"images/icons/pinterest.svg\"\r\n            alt=\"Pinterest\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "      <img src=\"images/icons/x.svg\" alt=\"X\" class=\"size-9 object-contain lg:size-10\" />\r\n        </figure>\r\n\r\n        <!-- Pinterest -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/pinterest.svg\"\r\n            alt=\"Pinterest\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Reddit -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px"
+  },
+  {
+    "src": "images/icons/reddit.svg",
+    "tag": "<img\r\n            src=\"images/icons/reddit.svg\"\r\n            alt=\"Reddit\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "       alt=\"Pinterest\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Reddit -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/reddit.svg\"\r\n            alt=\"Reddit\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Snapchat -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-"
+  },
+  {
+    "src": "images/icons/snapchat.svg",
+    "tag": "<img\r\n            src=\"images/icons/snapchat.svg\"\r\n            alt=\"Snapchat\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "        alt=\"Reddit\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Snapchat -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/snapchat.svg\"\r\n            alt=\"Snapchat\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Vimeo -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p"
+  },
+  {
+    "src": "images/icons/vimeo.svg",
+    "tag": "<img\r\n            src=\"images/icons/vimeo.svg\"\r\n            alt=\"Vimeo\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "         alt=\"Snapchat\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Vimeo -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/vimeo.svg\"\r\n            alt=\"Vimeo\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Zoom -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md"
+  },
+  {
+    "src": "images/icons/zoom.svg",
+    "tag": "<img src=\"images/icons/zoom.svg\" alt=\"Zoom\" class=\"size-9 object-contain lg:size-10\" />",
+    "context": "\n            alt=\"Vimeo\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Zoom -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img src=\"images/icons/zoom.svg\" alt=\"Zoom\" class=\"size-9 object-contain lg:size-10\" />\r\n        </figure>\r\n      </div>\r\n    </div>\r\n    \r\n    \r\n    \r\n\r\n    <!-- icons marquee right -->\r\n    <div\r\n      class=\"logos-right-marquee-container relative z-10\"\r\n      data-opai-animate\r\n      data-delay=\""
+  },
+  {
+    "src": "images/icons/mistral-ai.svg",
+    "tag": "<img\r\n            src=\"images/icons/mistral-ai.svg\"\r\n            alt=\"Mistral AI\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "%\"\r\n    >\r\n      <div class=\"flex items-center justify-center gap-x-10 lg:gap-x-[69px]\">\r\n        <!-- Mistral AI -->\r\n        <figure\r\n          class=\"bg-background-4 ml-10 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:ml-[69px] lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/mistral-ai.svg\"\r\n            alt=\"Mistral AI\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Music -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360p"
+  },
+  {
+    "src": "images/icons/music.svg",
+    "tag": "<img\r\n            src=\"images/icons/music.svg\"\r\n            alt=\"Music\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "       alt=\"Mistral AI\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Music -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/music.svg\"\r\n            alt=\"Music\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Notion -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 "
+  },
+  {
+    "src": "images/icons/notion.svg",
+    "tag": "<img\r\n            src=\"images/icons/notion.svg\"\r\n            alt=\"Notion\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "           alt=\"Music\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Notion -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/notion.svg\"\r\n            alt=\"Notion\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- OpenAI -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3."
+  },
+  {
+    "src": "images/icons/open-ai.svg",
+    "tag": "<img\r\n            src=\"images/icons/open-ai.svg\"\r\n            alt=\"OpenAI\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />",
+    "context": "          alt=\"Notion\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- OpenAI -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/open-ai.svg\"\r\n            alt=\"OpenAI\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Stripe -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360"
+  },
+  {
+    "src": "images/icons/stripe.svg",
+    "tag": "<img\r\n            src=\"images/icons/stripe.svg\"\r\n            alt=\"Stripe\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "   alt=\"OpenAI\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Stripe -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/stripe.svg\"\r\n            alt=\"Stripe\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Suno -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 "
+  },
+  {
+    "src": "images/icons/suno.svg",
+    "tag": "<img\r\n            src=\"images/icons/suno.svg\"\r\n            alt=\"Suno\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />",
+    "context": "            alt=\"Stripe\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Suno -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/suno.svg\"\r\n            alt=\"Suno\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Video -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-"
+  },
+  {
+    "src": "images/icons/perplexity-ai.svg",
+    "tag": "<img\r\n            src=\"images/icons/perplexity-ai.svg\"\r\n            alt=\"Perplexity AI\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "      alt=\"Suno\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Video -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/perplexity-ai.svg\"\r\n            alt=\"Perplexity AI\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Jira -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-"
+  },
+  {
+    "src": "images/icons/jira-status-page.svg",
+    "tag": "<img\r\n            src=\"images/icons/jira-status-page.svg\"\r\n            alt=\"Jira-status-page\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "     alt=\"Perplexity AI\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Jira -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/jira-status-page.svg\"\r\n            alt=\"Jira-status-page\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Shopify -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center"
+  },
+  {
+    "src": "images/icons/shopify.svg",
+    "tag": "<img\r\n            src=\"images/icons/shopify.svg\"\r\n            alt=\"Shopify\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "lt=\"Jira-status-page\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Shopify -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/shopify.svg\"\r\n            alt=\"Shopify\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Google Meet -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360p"
+  },
+  {
+    "src": "images/icons/google-meet.svg",
+    "tag": "<img\r\n            src=\"images/icons/google-meet.svg\"\r\n            alt=\"Google Meet\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "    alt=\"Shopify\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n\r\n        <!-- Google Meet -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/google-meet.svg\"\r\n            alt=\"Google Meet\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n        <!--Master Card  -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded"
+  },
+  {
+    "src": "images/icons/master-card.svg",
+    "tag": "<img\r\n            src=\"images/icons/master-card.svg\"\r\n            alt=\"Master Card\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />",
+    "context": "  alt=\"Google Meet\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n        <!--Master Card  -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/master-card.svg\"\r\n            alt=\"Master Card\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n        <!--Grok AI -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360"
+  },
+  {
+    "src": "images/icons/grok-ai.svg",
+    "tag": "<img\r\n            src=\"images/icons/grok-ai.svg\"\r\n            alt=\"Grok AI\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />",
+    "context": "       alt=\"Master Card\"\r\n            class=\"size-9 object-contain lg:size-10\"\r\n          />\r\n        </figure>\r\n        <!--Grok AI -->\r\n        <figure\r\n          class=\"bg-background-4 flex size-14 items-center justify-center rounded-[360px] p-3.5 md:size-16 lg:size-[72px]\"\r\n        >\r\n          <img\r\n            src=\"images/icons/grok-ai.svg\"\r\n            alt=\"Grok AI\"\r\n            class=\"size-9 object-contain invert lg:size-10\"\r\n          />\r\n        </figure>\r\n      </div>\r\n    </div>\r\n  </div>\r\n\r\n  <!-- bottom section -->\r\n  <div\r\n    class=\"max-md:main-container mx-auto w-[85%] text-ce"
+  },
+  {
+    "src": "images/opai-avatar-img-61.png",
+    "tag": "<img src=\"images/opai-avatar-img-61.png\" alt=\"services 01\" />",
+    "context": "      data-delay=\"0.4\"\r\n        class=\"bg-background-5 relative col-span-12 h-full max-h-[420px] min-h-[420px] w-full overflow-hidden rounded-lg p-8 md:col-span-6 lg:col-span-3 lg:max-w-[298px]\"\r\n      >\r\n        <!-- service image -->\r\n        <figure class=\"absolute inset-0 size-full\">\r\n          <img src=\"images/opai-avatar-img-61.png\" alt=\"services 01\" />\r\n        </figure>\r\n        <!-- gradient -->\r\n        <div\r\n          class=\"absolute -top-[53%] -right-[80%] z-10 h-[400px] w-[400px] lg:-top-[68%] xl:-top-[53%]\"\r\n        >\r\n          <img src=\"images/gradient/opai-10.png\" alt=\"\" class"
+  },
+  {
+    "src": "images/gradient/opai-10.png",
+    "tag": "<img src=\"images/gradient/opai-10.png\" alt=\"\" class=\"size-full object-cover\" />",
+    "context": "ure class=\"absolute inset-0 size-full\">\r\n          <img src=\"images/opai-avatar-img-61.png\" alt=\"services 01\" />\r\n        </figure>\r\n        <!-- gradient -->\r\n        <div\r\n          class=\"absolute -top-[53%] -right-[80%] z-10 h-[400px] w-[400px] lg:-top-[68%] xl:-top-[53%]\"\r\n        >\r\n          <img src=\"images/gradient/opai-10.png\" alt=\"\" class=\"size-full object-cover\" />\r\n        </div>\r\n\r\n        <!-- progressive blur  -->\r\n        <div\r\n          data-progressive-blur-effect\r\n          data-intensity=\"700\"\r\n          data-position=\"bottom\"\r\n          class=\"h-[180px] md:h-[220px]\"\r\n   "
+  },
+  {
+    "src": "images/opai-img-62.png",
+    "tag": "<img src=\"images/opai-img-62.png\" alt=\"\" />",
+    "context": "e\r\n        data-opai-animate\r\n        data-delay=\"0.6\"\r\n        class=\"bg-background-5 relative col-span-12 h-full max-h-[420px] min-h-[420px] w-full overflow-hidden rounded-lg p-8 md:col-span-6 lg:col-span-3 lg:max-w-[298px]\"\r\n      >\r\n        <figure class=\"absolute inset-0 size-full\">\r\n          <img src=\"images/opai-img-62.png\" alt=\"\" />\r\n        </figure>\r\n        <!-- overlay -->\r\n        <div\r\n          class=\"absolute inset-0 size-full bg-[linear-gradient(180deg,_rgba(17,20,29,0.04)_0%,_rgba(17,20,29,0.04)_100%)]\"\r\n          aria-hidden=\"true\"\r\n        ></div>\r\n        <!-- progressive"
+  },
+  {
+    "src": "images/vactor-shape/vertical-pattern.svg",
+    "tag": "<img\r\n                    src=\"images/vactor-shape/vertical-pattern.svg\"\r\n                    alt=\"task progress line\"\r\n                    class=\"size-full object-cover\"\r\n                  />",
+    "context": "k progress line -->\r\n              <div class=\"flex items-center justify-between gap-x-1\">\r\n                <!-- task progress line 01 -->\r\n                <div\r\n                  class=\"relative flex h-[195px] w-15 items-center justify-between overflow-hidden\"\r\n                >\r\n                  <img\r\n                    src=\"images/vactor-shape/vertical-pattern.svg\"\r\n                    alt=\"task progress line\"\r\n                    class=\"size-full object-cover\"\r\n                  />\r\n                  <div\r\n                    class=\"bg-opai-blue progress-bar-blue absolute bottom-0 left-0"
+  },
+  {
+    "src": "images/vactor-shape/vertical-pattern.svg",
+    "tag": "<img\r\n                    src=\"images/vactor-shape/vertical-pattern.svg\"\r\n                    alt=\"task progress line\"\r\n                    class=\"size-full object-cover\"\r\n                  />",
+    "context": "-0 left-0 z-1 h-6 w-full rounded-[4px]\"\r\n                  ></div>\r\n                </div>\r\n                <!-- task progress line 02 -->\r\n                <div\r\n                  class=\"relative flex h-[195px] w-15 items-center justify-between overflow-hidden\"\r\n                >\r\n                  <img\r\n                    src=\"images/vactor-shape/vertical-pattern.svg\"\r\n                    alt=\"task progress line\"\r\n                    class=\"size-full object-cover\"\r\n                  />\r\n                  <div\r\n                    class=\"bg-background-3 progress-bar-black absolute bottom-0 le"
+  },
+  {
+    "src": "images/vactor-shape/vertical-pattern.svg",
+    "tag": "<img\r\n                    src=\"images/vactor-shape/vertical-pattern.svg\"\r\n                    alt=\"task progress line\"\r\n                    class=\"size-full object-cover\"\r\n                  />",
+    "context": "0 left-0 z-1 h-26 w-full rounded-[4px]\"\r\n                  ></div>\r\n                </div>\r\n                <!-- task progress line 03 -->\r\n                <div\r\n                  class=\"relative flex h-[195px] w-15 items-center justify-between overflow-hidden\"\r\n                >\r\n                  <img\r\n                    src=\"images/vactor-shape/vertical-pattern.svg\"\r\n                    alt=\"task progress line\"\r\n                    class=\"size-full object-cover\"\r\n                  />\r\n                  <div\r\n                    class=\"bg-opai-lemon progress-bar-lemon absolute bottom-0 left"
+  },
+  {
+    "src": "images/vactor-shape/vertical-pattern.svg",
+    "tag": "<img\r\n                    src=\"images/vactor-shape/vertical-pattern.svg\"\r\n                    alt=\"task progress line\"\r\n                    class=\"size-full object-cover\"\r\n                  />",
+    "context": "0 left-0 z-1 h-23 w-full rounded-[4px]\"\r\n                  ></div>\r\n                </div>\r\n                <!-- task progress line 04 -->\r\n                <div\r\n                  class=\"relative flex h-[195px] w-15 items-center justify-between overflow-hidden\"\r\n                >\r\n                  <img\r\n                    src=\"images/vactor-shape/vertical-pattern.svg\"\r\n                    alt=\"task progress line\"\r\n                    class=\"size-full object-cover\"\r\n                  />\r\n                  <div\r\n                    class=\"bg-opai-cyan progress-bar-cyan absolute bottom-0 left-0"
+  },
+  {
+    "src": "images/vactor-shape/lock.svg",
+    "tag": "<img\r\n                    src=\"images/vactor-shape/lock.svg\"\r\n                    alt=\"vector shape\"\r\n                    class=\"size-full object-cover\"\r\n                  />",
+    "context": "            <div\r\n                class=\"bg-background-5 lock-fade-animation-delay-3 absolute top-1/2 left-1/2 flex size-17 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full px-3.5 py-3\"\r\n              >\r\n                <figure class=\"h-[52px] w-[50px]\">\r\n                  <img\r\n                    src=\"images/vactor-shape/lock.svg\"\r\n                    alt=\"vector shape\"\r\n                    class=\"size-full object-cover\"\r\n                  />\r\n                </figure>\r\n              </div>\r\n            </div>\r\n          </div>\r\n\r\n          <div class=\"relative z-20"
+  },
+  {
+    "src": "images/icons/astro.svg",
+    "tag": "<img src=\"images/icons/astro.svg\" alt=\"Astro\" class=\"size-10 object-contain\" />",
+    "context": "tainer\">\r\n              <div class=\"flex items-center justify-center gap-x-6\">\r\n                <!-- Astro -->\r\n                <figure\r\n                  class=\"bg-background-4 ml-6 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img src=\"images/icons/astro.svg\" alt=\"Astro\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- Slack -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n              "
+  },
+  {
+    "src": "images/icons/slack.svg",
+    "tag": "<img src=\"images/icons/slack.svg\" alt=\"Slack\" class=\"size-10 object-contain\" />",
+    "context": "astro.svg\" alt=\"Astro\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- Slack -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img src=\"images/icons/slack.svg\" alt=\"Slack\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- Netflix -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n            "
+  },
+  {
+    "src": "images/icons/netflix.svg",
+    "tag": "<img\r\n                    src=\"images/icons/netflix.svg\"\r\n                    alt=\"Netflix\"\r\n                    class=\"size-10 object-contain\"\r\n                  />",
+    "context": "ack.svg\" alt=\"Slack\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- Netflix -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img\r\n                    src=\"images/icons/netflix.svg\"\r\n                    alt=\"Netflix\"\r\n                    class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- Opera -->\r\n                <figure\r\n                  class=\"bg-background-4 flex siz"
+  },
+  {
+    "src": "images/icons/opera.svg",
+    "tag": "<img src=\"images/icons/opera.svg\" alt=\"Opera\" class=\"size-10 object-contain\" />",
+    "context": "    class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- Opera -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img src=\"images/icons/opera.svg\" alt=\"Opera\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n              </div>\r\n            </div>\r\n\r\n            <div class=\"logos-right-marquee-container\">\r\n              <div class=\"flex items-center justify-center gap-x-6\">\r\n                <!-- "
+  },
+  {
+    "src": "images/icons/astro.svg",
+    "tag": "<img src=\"images/icons/astro.svg\" alt=\"Astro\" class=\"size-10 object-contain\" />",
+    "context": "tainer\">\r\n              <div class=\"flex items-center justify-center gap-x-6\">\r\n                <!-- Astro -->\r\n                <figure\r\n                  class=\"bg-background-4 ml-6 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img src=\"images/icons/astro.svg\" alt=\"Astro\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- Slack -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n              "
+  },
+  {
+    "src": "images/icons/slack.svg",
+    "tag": "<img src=\"images/icons/slack.svg\" alt=\"Slack\" class=\"size-10 object-contain\" />",
+    "context": "astro.svg\" alt=\"Astro\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- Slack -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img src=\"images/icons/slack.svg\" alt=\"Slack\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- Netflix -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n            "
+  },
+  {
+    "src": "images/icons/netflix.svg",
+    "tag": "<img\r\n                    src=\"images/icons/netflix.svg\"\r\n                    alt=\"Netflix\"\r\n                    class=\"size-10 object-contain\"\r\n                  />",
+    "context": "ack.svg\" alt=\"Slack\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- Netflix -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img\r\n                    src=\"images/icons/netflix.svg\"\r\n                    alt=\"Netflix\"\r\n                    class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- Opera -->\r\n                <figure\r\n                  class=\"bg-background-4 flex siz"
+  },
+  {
+    "src": "images/icons/opera.svg",
+    "tag": "<img src=\"images/icons/opera.svg\" alt=\"Opera\" class=\"size-10 object-contain\" />",
+    "context": "    class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- Opera -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img src=\"images/icons/opera.svg\" alt=\"Opera\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- GitHub -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n             "
+  },
+  {
+    "src": "images/icons/github.svg",
+    "tag": "<img\r\n                    src=\"images/icons/github.svg\"\r\n                    alt=\"GitHub\"\r\n                    class=\"size-10 object-contain invert\"\r\n                  />",
+    "context": "pera.svg\" alt=\"Opera\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n                <!-- GitHub -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img\r\n                    src=\"images/icons/github.svg\"\r\n                    alt=\"GitHub\"\r\n                    class=\"size-10 object-contain invert\"\r\n                  />\r\n                </figure>\r\n                <!-- Spotify -->\r\n                <figure\r\n                  class=\"bg-background-4 f"
+  },
+  {
+    "src": "images/icons/spotify.svg",
+    "tag": "<img\r\n                    src=\"images/icons/spotify.svg\"\r\n                    alt=\"Spotify\"\r\n                    class=\"size-10 object-contain\"\r\n                  />",
+    "context": "=\"size-10 object-contain invert\"\r\n                  />\r\n                </figure>\r\n                <!-- Spotify -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img\r\n                    src=\"images/icons/spotify.svg\"\r\n                    alt=\"Spotify\"\r\n                    class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- Notion -->\r\n                <figure\r\n                  class=\"bg-background-4 flex si"
+  },
+  {
+    "src": "images/icons/notion.svg",
+    "tag": "<img\r\n                    src=\"images/icons/notion.svg\"\r\n                    alt=\"Notion\"\r\n                    class=\"size-10 object-contain\"\r\n                  />",
+    "context": "   class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- Notion -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img\r\n                    src=\"images/icons/notion.svg\"\r\n                    alt=\"Notion\"\r\n                    class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n              </div>\r\n            </div>\r\n\r\n            <div class=\"logos-marquee-container\">\r\n             "
+  },
+  {
+    "src": "images/icons/youtube.svg",
+    "tag": "<img\r\n                    src=\"images/icons/youtube.svg\"\r\n                    alt=\"YouTube\"\r\n                    class=\"size-10 object-contain\"\r\n                  />",
+    "context": "iner\">\r\n              <div class=\"flex items-center justify-center gap-x-6\">\r\n                <!-- YouTube -->\r\n                <figure\r\n                  class=\"bg-background-4 ml-6 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img\r\n                    src=\"images/icons/youtube.svg\"\r\n                    alt=\"YouTube\"\r\n                    class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- WhatsApp -->\r\n                <figure\r\n                  class=\"bg-background-4 flex "
+  },
+  {
+    "src": "images/icons/whatsapp.svg",
+    "tag": "<img\r\n                    src=\"images/icons/whatsapp.svg\"\r\n                    alt=\"WhatsApp\"\r\n                    class=\"size-10 object-contain\"\r\n                  />",
+    "context": " class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- WhatsApp -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img\r\n                    src=\"images/icons/whatsapp.svg\"\r\n                    alt=\"WhatsApp\"\r\n                    class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- King Master -->\r\n                <figure\r\n                  class=\"bg-background-4 "
+  },
+  {
+    "src": "images/icons/king-master.svg",
+    "tag": "<img\r\n                    src=\"images/icons/king-master.svg\"\r\n                    alt=\"King Master\"\r\n                    class=\"size-10 object-contain\"\r\n                  />",
+    "context": "ass=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- King Master -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img\r\n                    src=\"images/icons/king-master.svg\"\r\n                    alt=\"King Master\"\r\n                    class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- Zoom -->\r\n                <figure\r\n                  class=\"bg-background-4 f"
+  },
+  {
+    "src": "images/icons/zoom.svg",
+    "tag": "<img src=\"images/icons/zoom.svg\" alt=\"Zoom\" class=\"size-10 object-contain\" />",
+    "context": "     class=\"size-10 object-contain\"\r\n                  />\r\n                </figure>\r\n                <!-- Zoom -->\r\n                <figure\r\n                  class=\"bg-background-4 flex size-16 items-center justify-center rounded-[360px] p-3.5 md:size-[72px]\"\r\n                >\r\n                  <img src=\"images/icons/zoom.svg\" alt=\"Zoom\" class=\"size-10 object-contain\" />\r\n                </figure>\r\n              </div>\r\n            </div>\r\n          </div>\r\n\r\n          <div class=\"relative z-20 space-y-1\">\r\n            <h3 class=\"text-sora-heading-5 font-normal tracking-[-0.72px] text-whit"
+  },
+  {
+    "src": "images/opai-img-100.jpg",
+    "tag": "<img\r\n              src=\"images/opai-img-100.jpg\"\r\n              alt=\"portfolio\"\r\n              class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n            />",
+    "context": "->\r\n      <div class=\"col-span-12\" data-opai-animate data-delay=\"0.3\">\r\n        <a href=\"portfolio.html\" class=\"group relative block\">\r\n          <figure\r\n            class=\"image-loading-reveal w-full overflow-hidden rounded-lg max-lg:h-[440px] xl:h-full xl:min-h-[640px]\"\r\n          >\r\n            <img\r\n              src=\"images/opai-img-100.jpg\"\r\n              alt=\"portfolio\"\r\n              class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n            />\r\n          </figure>\r\n          <!-- icons -->\r\n          <div\r\n"
+  },
+  {
+    "src": "images/opai-img-101.jpg",
+    "tag": "<img\r\n              src=\"images/opai-img-101.jpg\"\r\n              alt=\"portfolio\"\r\n              class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n            />",
+    "context": " class=\"col-span-12 lg:col-span-6\" data-opai-animate data-delay=\"0.4\">\r\n        <a href=\"portfolio.html\" class=\"group relative block\">\r\n          <figure\r\n            class=\"image-loading-reveal w-full overflow-hidden rounded-lg max-lg:h-[440px] xl:h-full xl:min-h-[767px]\"\r\n          >\r\n            <img\r\n              src=\"images/opai-img-101.jpg\"\r\n              alt=\"portfolio\"\r\n              class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n            />\r\n          </figure>\r\n\r\n          <!-- icons -->\r\n          <div"
+  },
+  {
+    "src": "images/opai-img-102.jpg",
+    "tag": "<img\r\n              src=\"images/opai-img-102.jpg\"\r\n              alt=\"portfolio\"\r\n              class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n            />",
+    "context": " class=\"col-span-12 lg:col-span-6\" data-opai-animate data-delay=\"0.5\">\r\n        <a href=\"portfolio.html\" class=\"group relative block\">\r\n          <figure\r\n            class=\"image-loading-reveal w-full overflow-hidden rounded-lg max-lg:h-[440px] xl:h-full xl:min-h-[767px]\"\r\n          >\r\n            <img\r\n              src=\"images/opai-img-102.jpg\"\r\n              alt=\"portfolio\"\r\n              class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n            />\r\n          </figure>\r\n\r\n          <!-- icons -->\r\n          <div"
+  },
+  {
+    "src": "images/opai-img-103.jpg",
+    "tag": "<img\r\n              src=\"images/opai-img-103.jpg\"\r\n              alt=\"portfolio\"\r\n              class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n            />",
+    "context": "->\r\n      <div class=\"col-span-12\" data-opai-animate data-delay=\"0.6\">\r\n        <a href=\"portfolio.html\" class=\"group relative block\">\r\n          <figure\r\n            class=\"image-loading-reveal w-full overflow-hidden rounded-lg max-lg:h-[440px] xl:h-full xl:min-h-[640px]\"\r\n          >\r\n            <img\r\n              src=\"images/opai-img-103.jpg\"\r\n              alt=\"portfolio\"\r\n              class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n            />\r\n          </figure>\r\n\r\n          <!-- icons -->\r\n          <div"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "\n  <div\r\n    class=\"bg-opai-blue ease-team-ease-1 absolute top-[-17%] left-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "n-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Our customer"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "tive z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Our customer support response time dropped by 60%. Sorbit's automation is a real game-"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "pan><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Our customer support response time dropped by 60%. Sorbit's automation is a real game-changer for our team.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figur"
+  },
+  {
+    "src": "images/opai-avatar-img-01.png",
+    "tag": "<img src=\"images/opai-avatar-img-01.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />",
+    "context": "an>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Our customer support response time dropped by 60%. Sorbit's automation is a real game-changer for our team.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class=\"size-17.5 overflow-hidden rounded-full\">\r\n      <img src=\"images/opai-avatar-img-01.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />\r\n    </figure>\r\n    <blockquote class=\"space-y-0.5\">\r\n      <h3 class=\"text-manrope-heading-6 font-medium text-white/90\">Elijah Brooks</h3>\r\n      <p class=\"text-tagline-3 font-normal text-white"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "\n  <div\r\n    class=\"bg-opai-blue ease-team-ease-1 absolute top-[-17%] left-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "n-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">The AI-power"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "tive z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">The AI-powered insights helped us identify trends we were missing. Our conversion rate"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "pan><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">The AI-powered insights helped us identify trends we were missing. Our conversion rate increased by 42% in just three months.</p>\r\n  </div>\r\n  <div class=\"space"
+  },
+  {
+    "src": "images/opai-avatar-img-02.png",
+    "tag": "<img src=\"images/opai-avatar-img-02.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />",
+    "context": "   <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">The AI-powered insights helped us identify trends we were missing. Our conversion rate increased by 42% in just three months.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class=\"size-17.5 overflow-hidden rounded-full\">\r\n      <img src=\"images/opai-avatar-img-02.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />\r\n    </figure>\r\n    <blockquote class=\"space-y-0.5\">\r\n      <h3 class=\"text-manrope-heading-6 font-medium text-white/90\">Sophia Martinez</h3>\r\n      <p class=\"text-tagline-3 font-normal text-whi"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "\n  <div\r\n    class=\"bg-opai-blue ease-team-ease-1 absolute top-[-17%] left-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "n-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">With Sorbit,"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "tive z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">With Sorbit, scaling our operations didn't mean scaling our headcount. It's efficiency"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "pan><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">With Sorbit, scaling our operations didn't mean scaling our headcount. It's efficiency at its best.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class="
+  },
+  {
+    "src": "images/opai-avatar-img-03.png",
+    "tag": "<img src=\"images/opai-avatar-img-03.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />",
+    "context": "\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">With Sorbit, scaling our operations didn't mean scaling our headcount. It's efficiency at its best.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class=\"size-17.5 overflow-hidden rounded-full\">\r\n      <img src=\"images/opai-avatar-img-03.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />\r\n    </figure>\r\n    <blockquote class=\"space-y-0.5\">\r\n      <h3 class=\"text-manrope-heading-6 font-medium text-white/90\">David Chen</h3>\r\n      <p class=\"text-tagline-3 font-normal text-white/50"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "\n  <div\r\n    class=\"bg-opai-blue ease-team-ease-1 absolute top-[-17%] left-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "n-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Sorbit gave "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "tive z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Sorbit gave us the tools to personalize marketing at scale without adding complexity. "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "pan><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Sorbit gave us the tools to personalize marketing at scale without adding complexity. ROI improved by 58%.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure"
+  },
+  {
+    "src": "images/opai-avatar-img-04.png",
+    "tag": "<img src=\"images/opai-avatar-img-04.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />",
+    "context": "pan>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Sorbit gave us the tools to personalize marketing at scale without adding complexity. ROI improved by 58%.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class=\"size-17.5 overflow-hidden rounded-full\">\r\n      <img src=\"images/opai-avatar-img-04.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />\r\n    </figure>\r\n    <blockquote class=\"space-y-0.5\">\r\n      <h3 class=\"text-manrope-heading-6 font-medium text-white/90\">Amelia Patel</h3>\r\n      <p class=\"text-tagline-3 font-normal text-white/"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "\n  <div\r\n    class=\"bg-opai-blue ease-team-ease-1 absolute top-[-17%] left-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "n-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">We reduced o"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "tive z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">We reduced operational costs by 35% after implementing Sorbit—without sacrificing qual"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "pan><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">We reduced operational costs by 35% after implementing Sorbit—without sacrificing quality. Best decision we made.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    "
+  },
+  {
+    "src": "images/opai-avatar-img-05.png",
+    "tag": "<img src=\"images/opai-avatar-img-05.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />",
+    "context": "   </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">We reduced operational costs by 35% after implementing Sorbit—without sacrificing quality. Best decision we made.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class=\"size-17.5 overflow-hidden rounded-full\">\r\n      <img src=\"images/opai-avatar-img-05.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />\r\n    </figure>\r\n    <blockquote class=\"space-y-0.5\">\r\n      <h3 class=\"text-manrope-heading-6 font-medium text-white/90\">Michael Johnson</h3>\r\n      <p class=\"text-tagline-3 font-normal text-whi"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "\n  <div\r\n    class=\"bg-opai-blue ease-team-ease-1 absolute top-[-17%] left-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "n-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Automating r"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "tive z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Automating reports freed up our team to focus on strategy instead of spreadsheets. Pro"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "pan><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Automating reports freed up our team to focus on strategy instead of spreadsheets. Productivity skyrocketed.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figu"
+  },
+  {
+    "src": "images/opai-avatar-img-06.png",
+    "tag": "<img src=\"images/opai-avatar-img-06.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />",
+    "context": "n>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Automating reports freed up our team to focus on strategy instead of spreadsheets. Productivity skyrocketed.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class=\"size-17.5 overflow-hidden rounded-full\">\r\n      <img src=\"images/opai-avatar-img-06.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />\r\n    </figure>\r\n    <blockquote class=\"space-y-0.5\">\r\n      <h3 class=\"text-manrope-heading-6 font-medium text-white/90\">Liam Walker</h3>\r\n      <p class=\"text-tagline-3 font-normal text-white/5"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "\n  <div\r\n    class=\"bg-opai-blue ease-team-ease-1 absolute top-[-17%] left-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "n-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Sorbit integ"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "tive z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Sorbit integrated seamlessly with our systems—zero downtime, maximum impact. The imple"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "pan><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Sorbit integrated seamlessly with our systems—zero downtime, maximum impact. The implementation was flawless.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <fig"
+  },
+  {
+    "src": "images/opai-avatar-img-07.png",
+    "tag": "<img src=\"images/opai-avatar-img-07.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />",
+    "context": ">\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Sorbit integrated seamlessly with our systems—zero downtime, maximum impact. The implementation was flawless.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class=\"size-17.5 overflow-hidden rounded-full\">\r\n      <img src=\"images/opai-avatar-img-07.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />\r\n    </figure>\r\n    <blockquote class=\"space-y-0.5\">\r\n      <h3 class=\"text-manrope-heading-6 font-medium text-white/90\">Isabella Rossi</h3>\r\n      <p class=\"text-tagline-3 font-normal text-whit"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "\n  <div\r\n    class=\"bg-opai-blue ease-team-ease-1 absolute top-[-17%] left-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "n-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Real-time an"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "tive z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Real-time analytics transformed how we make decisions. We're now responding to market "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "pan><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Real-time analytics transformed how we make decisions. We're now responding to market changes in hours, not weeks.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n   "
+  },
+  {
+    "src": "images/opai-avatar-img-02.png",
+    "tag": "<img src=\"images/opai-avatar-img-02.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />",
+    "context": "  </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">Real-time analytics transformed how we make decisions. We're now responding to market changes in hours, not weeks.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class=\"size-17.5 overflow-hidden rounded-full\">\r\n      <img src=\"images/opai-avatar-img-02.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />\r\n    </figure>\r\n    <blockquote class=\"space-y-0.5\">\r\n      <h3 class=\"text-manrope-heading-6 font-medium text-white/90\">James Walker</h3>\r\n      <p class=\"text-tagline-3 font-normal text-white/"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "\n  <div\r\n    class=\"bg-opai-blue ease-team-ease-1 absolute top-[-17%] left-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "-[-18%] z-0 size-34 opacity-0 mix-blend-plus-lighter blur-[42px] transition-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "n-all duration-500 group-hover:opacity-100\"\r\n  ></div>\r\n  <div class=\"relative z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">The predicti"
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "tive z-10 space-y-3\">\r\n    <div class=\"flex items-center gap-1\">\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">The predictive capabilities saved us from potential losses. Sorbit's AI caught issues "
+  },
+  {
+    "src": "images/icons/yellow-star.svg",
+    "tag": "<img src=\"images/icons/yellow-star.svg\" alt=\"star\" />",
+    "context": "pan><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n      <span><img src=\"images/icons/yellow-star.svg\" alt=\"star\" /></span>\r\n    </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">The predictive capabilities saved us from potential losses. Sorbit's AI caught issues we didn't even know existed.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n   "
+  },
+  {
+    "src": "images/opai-avatar-img-29.png",
+    "tag": "<img src=\"images/opai-avatar-img-29.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />",
+    "context": "  </div>\r\n    <p class=\"text-tagline-2 font-normal text-wrap text-white/80\">The predictive capabilities saved us from potential losses. Sorbit's AI caught issues we didn't even know existed.</p>\r\n  </div>\r\n  <div class=\"space-y-3\">\r\n    <figure class=\"size-17.5 overflow-hidden rounded-full\">\r\n      <img src=\"images/opai-avatar-img-29.png\" alt=\"testimonial\" class=\"size-full object-cover grayscale-25\" />\r\n    </figure>\r\n    <blockquote class=\"space-y-0.5\">\r\n      <h3 class=\"text-manrope-heading-6 font-medium text-white/90\">Emma Thompson</h3>\r\n      <p class=\"text-tagline-3 font-normal text-white"
+  },
+  {
+    "src": "images/opai-img-104.svg",
+    "tag": "<img\r\n          src=\"images/opai-img-104.svg\"\r\n          alt=\"plus\"\r\n          class=\"absolute -right-[0.5%] bottom-[19.5%] z-10 size-7 md:size-9 lg:-right-[3.5%]\"\r\n        />",
+    "context": "-2 z-[-1] h-[60px] w-[82px] -translate-y-1/2 rounded-full bg-linear-[270deg,#5A9FFF_0%,rgba(255,250,107,0.20)_95.12%] blur-[7px] transition-colors duration-500 ease-in-out content-['']\"\r\n    >\r\n    </span>\r\n  </div>\r\n</a>\r\n\r\n          </div>\r\n        </div>\r\n\r\n      \r\n        <!-- Plus -->\r\n        <img\r\n          src=\"images/opai-img-104.svg\"\r\n          alt=\"plus\"\r\n          class=\"absolute -right-[0.5%] bottom-[19.5%] z-10 size-7 md:size-9 lg:-right-[3.5%]\"\r\n        />\r\n      </article>\r\n      <!-- card three -->\r\n      <article class=\"col-span-12 lg:col-span-4\" data-opai-animate data-delay="
+  },
+  {
+    "src": "images/opai-img-14.jpg",
+    "tag": "<img\r\n                src=\"images/opai-img-14.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />",
+    "context": "!-- blog 01 -->\r\n        <article\r\n          class=\"group underline-hover-effect h-full space-y-4\"\r\n          data-opai-animate\r\n          data-delay=\"0.3\"\r\n        >\r\n          <figure class=\"max-h-[420px] w-full overflow-hidden rounded-lg\">\r\n            <a href=\"blog-details.html\">\r\n              <img\r\n                src=\"images/opai-img-14.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />\r\n            </a>\r\n          </figure>\r\n          <div class=\""
+  },
+  {
+    "src": "images/opai-img-15.jpg",
+    "tag": "<img\r\n                src=\"images/opai-img-15.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />",
+    "context": "!-- blog 02 -->\r\n        <article\r\n          class=\"group underline-hover-effect h-full space-y-4\"\r\n          data-opai-animate\r\n          data-delay=\"0.5\"\r\n        >\r\n          <figure class=\"max-h-[320px] w-full overflow-hidden rounded-lg\">\r\n            <a href=\"blog-details.html\">\r\n              <img\r\n                src=\"images/opai-img-15.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />\r\n            </a>\r\n          </figure>\r\n          <div class=\""
+  },
+  {
+    "src": "images/opai-img-16.jpg",
+    "tag": "<img\r\n                src=\"images/opai-img-16.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />",
+    "context": "!-- blog 03 -->\r\n        <article\r\n          class=\"group underline-hover-effect h-full space-y-4\"\r\n          data-opai-animate\r\n          data-delay=\"0.4\"\r\n        >\r\n          <figure class=\"max-h-[500px] w-full overflow-hidden rounded-lg\">\r\n            <a href=\"blog-details.html\">\r\n              <img\r\n                src=\"images/opai-img-16.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />\r\n            </a>\r\n          </figure>\r\n          <div class=\""
+  },
+  {
+    "src": "images/opai-img-17.jpg",
+    "tag": "<img\r\n                src=\"images/opai-img-17.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />",
+    "context": "!-- blog 04 -->\r\n        <article\r\n          class=\"group underline-hover-effect h-full space-y-4\"\r\n          data-opai-animate\r\n          data-delay=\"0.5\"\r\n        >\r\n          <figure class=\"max-h-[340px] w-full overflow-hidden rounded-lg\">\r\n            <a href=\"blog-details.html\">\r\n              <img\r\n                src=\"images/opai-img-17.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />\r\n            </a>\r\n          </figure>\r\n          <div class=\""
+  },
+  {
+    "src": "images/opai-img-18.jpg",
+    "tag": "<img\r\n                src=\"images/opai-img-18.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />",
+    "context": "!-- blog 05 -->\r\n        <article\r\n          class=\"group underline-hover-effect h-full space-y-4\"\r\n          data-opai-animate\r\n          data-delay=\"0.6\"\r\n        >\r\n          <figure class=\"max-h-[320px] w-full overflow-hidden rounded-lg\">\r\n            <a href=\"blog-details.html\">\r\n              <img\r\n                src=\"images/opai-img-18.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />\r\n            </a>\r\n          </figure>\r\n          <div class=\""
+  },
+  {
+    "src": "images/opai-img-19.jpg",
+    "tag": "<img\r\n                src=\"images/opai-img-19.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />",
+    "context": "!-- blog 06 -->\r\n        <article\r\n          class=\"underline-hover-effect group h-full space-y-4\"\r\n          data-opai-animate\r\n          data-delay=\"0.8\"\r\n        >\r\n          <figure class=\"max-h-[420px] w-full overflow-hidden rounded-lg\">\r\n            <a href=\"blog-details.html\">\r\n              <img\r\n                src=\"images/opai-img-19.jpg\"\r\n                alt=\"blog\"\r\n                class=\"size-full scale-100 object-cover transition-all duration-500 ease-in-out group-hover:scale-105 group-hover:rotate-1\"\r\n              />\r\n            </a>\r\n          </figure>\r\n          <div class=\""
+  },
+  {
+    "src": "images/opai-avatar-img-01.png",
+    "tag": "<img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.2\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-01.png\"\r\n            alt=\"Avatar 1\"\r\n          />",
+    "context": "AI helps your\r\n          business move forward.\r\n        </p>\r\n      </div>\r\n\r\n      <!-- Avatars and Trust Indicator -->\r\n      <div\r\n        class=\"flex items-center justify-center gap-4 pb-14 max-[375px]:flex-col md:pb-16 xl:pb-[70px]\"\r\n      >\r\n        <div class=\"flex -space-x-2.5\">\r\n          <img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.2\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-01.png\"\r\n            alt=\"Avatar 1\"\r\n          />\r\n          <img\r\n            data-opai-avatar\r\n            data-a"
+  },
+  {
+    "src": "images/opai-avatar-img-02.png",
+    "tag": "<img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.3\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-02.png\"\r\n            alt=\"Avatar 2\"\r\n          />",
+    "context": ">\r\n        <div class=\"flex -space-x-2.5\">\r\n          <img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.2\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-01.png\"\r\n            alt=\"Avatar 1\"\r\n          />\r\n          <img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.3\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-02.png\"\r\n            alt=\"Avatar 2\"\r\n          />\r\n          <img\r\n            data-opai-avatar\r\n            data-a"
+  },
+  {
+    "src": "images/opai-avatar-img-03.png",
+    "tag": "<img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.4\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-03.png\"\r\n            alt=\"Avatar 3\"\r\n          />",
+    "context": "\r\n            alt=\"Avatar 1\"\r\n          />\r\n          <img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.3\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-02.png\"\r\n            alt=\"Avatar 2\"\r\n          />\r\n          <img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.4\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-03.png\"\r\n            alt=\"Avatar 3\"\r\n          />\r\n          <img\r\n            data-opai-avatar\r\n            data-a"
+  },
+  {
+    "src": "images/opai-avatar-img-04.png",
+    "tag": "<img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.5\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-04.png\"\r\n            alt=\"Avatar 4\"\r\n          />",
+    "context": "\r\n            alt=\"Avatar 2\"\r\n          />\r\n          <img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.4\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-03.png\"\r\n            alt=\"Avatar 3\"\r\n          />\r\n          <img\r\n            data-opai-avatar\r\n            data-avatar-delay=\"0.5\"\r\n            class=\"inline-block size-9 rounded-full ring-2 ring-white\"\r\n            src=\"images/opai-avatar-img-04.png\"\r\n            alt=\"Avatar 4\"\r\n          />\r\n          <div\r\n            data-opai-avatar\r\n            data-a"
+  },
+  {
+    "src": "images/gradient/opai-7.svg",
+    "tag": "<img src=\"images/gradient/opai-7.svg\" alt=\"faq-gradient\" />",
+    "context": "efault-open accordion-item relative z-10 overflow-hidden rounded-xl border\"\r\n        >\r\n          <!-- active gradient -->\r\n          <span\r\n            class=\"accordion-active-gradient absolute top-0 left-0 -z-10 opacity-0 transition-all delay-75 duration-500 ease-in-out\"\r\n          >\r\n            <img src=\"images/gradient/opai-7.svg\" alt=\"faq-gradient\" />\r\n          </span>\r\n\r\n          <h3\r\n            class=\"accordion-action flex w-full cursor-pointer items-start justify-between px-5 pt-6 pb-6 transition-all duration-300 ease-in-out max-md:gap-4 md:items-center md:px-6\"\r\n          >\r\n     "
+  },
+  {
+    "src": "images/gradient/opai-7.svg",
+    "tag": "<img src=\"images/gradient/opai-7.svg\" alt=\"faq-gradient\" />",
+    "context": "stroke-3/20 accordion-item relative z-10 overflow-hidden rounded-xl border\"\r\n        >\r\n          <!-- active gradient -->\r\n          <span\r\n            class=\"accordion-active-gradient absolute top-0 left-0 -z-10 opacity-0 transition-all delay-75 duration-500 ease-in-out\"\r\n          >\r\n            <img src=\"images/gradient/opai-7.svg\" alt=\"faq-gradient\" />\r\n          </span>\r\n\r\n          <h3\r\n            class=\"accordion-action flex w-full cursor-pointer items-start justify-between px-5 pt-6 pb-6 transition-all duration-300 ease-in-out max-md:gap-4 md:items-center md:px-6\"\r\n          >\r\n     "
+  },
+  {
+    "src": "images/gradient/opai-7.svg",
+    "tag": "<img src=\"images/gradient/opai-7.svg\" alt=\"faq-gradient\" />",
+    "context": "stroke-3/20 accordion-item relative z-10 overflow-hidden rounded-xl border\"\r\n        >\r\n          <!-- active gradient -->\r\n          <span\r\n            class=\"accordion-active-gradient absolute top-0 left-0 -z-10 opacity-0 transition-all delay-75 duration-500 ease-in-out\"\r\n          >\r\n            <img src=\"images/gradient/opai-7.svg\" alt=\"faq-gradient\" />\r\n          </span>\r\n\r\n          <h3\r\n            class=\"accordion-action flex w-full cursor-pointer items-start justify-between px-5 pt-6 pb-6 transition-all duration-300 ease-in-out max-md:gap-4 md:items-center md:px-6\"\r\n          >\r\n     "
+  },
+  {
+    "src": "images/gradient/opai-7.svg",
+    "tag": "<img src=\"images/gradient/opai-7.svg\" alt=\"faq-gradient\" />",
+    "context": "stroke-3/20 accordion-item relative z-10 overflow-hidden rounded-xl border\"\r\n        >\r\n          <!-- active gradient -->\r\n          <span\r\n            class=\"accordion-active-gradient absolute top-0 left-0 -z-10 opacity-0 transition-all delay-75 duration-500 ease-in-out\"\r\n          >\r\n            <img src=\"images/gradient/opai-7.svg\" alt=\"faq-gradient\" />\r\n          </span>\r\n\r\n          <h3\r\n            class=\"accordion-action flex w-full cursor-pointer items-start justify-between px-5 pt-6 pb-6 transition-all duration-300 ease-in-out max-md:gap-4 md:items-center md:px-6\"\r\n          >\r\n     "
+  },
+  {
+    "src": "images/opai-img-43.png",
+    "tag": "<img\r\n        src=\"images/opai-img-43.png\"\r\n        alt=\"bg-globe\"\r\n        class=\"globe-image object-cover mix-blend-lighten max-[602px]:size-[107%] md:size-full md:object-cover\"\r\n      />",
+    "context": "================== CTA ============================= -->\r\n\r\n<section class=\"pt-20 pb-16 md:pb-[100px] lg:pt-28\">\r\n  <div class=\"main-container relative grid h-full place-items-end md:min-h-[662px]\">\r\n    <!-- bg globe image -->\r\n    <figure class=\"absolute -top-20 left-0 size-full md:top-0\">\r\n      <img\r\n        src=\"images/opai-img-43.png\"\r\n        alt=\"bg-globe\"\r\n        class=\"globe-image object-cover mix-blend-lighten max-[602px]:size-[107%] md:size-full md:object-cover\"\r\n      />\r\n    </figure>\r\n    <!-- content -->\r\n    <div class=\"relative z-10 mx-auto space-y-12 md:space-y-14\">\r\n      "
+  },
+  {
+    "src": "images/logo/new.svg",
+    "tag": "<img src=\"images/logo/new.svg\" alt=\"logo\" class=\"size-full\" />",
+    "context": "-10 lg:gap-6\">\r\n      <div class=\"col-span-12 lg:col-span-4\" data-opai-animate data-delay=\"0.1\">\r\n        <div class=\"space-y-8\">\r\n          <a href=\"index.html\" class=\"block\">\r\n            <span class=\"sr-only\">SINCWEB INFOTECH</span>\r\n            <figure class=\"h-[40px] w-[166px]\">\r\n              <img src=\"images/logo/new.svg\" alt=\"logo\" class=\"size-full\" />\r\n            </figure>\r\n          </a>\r\n          <div class=\"space-y-6\">\r\n            <div>\r\n              <p class=\"text-tagline-2 text-background-11 mb-1 font-semibold\">Address:</p>\r\n              <p class=\"text-tagline-3 font-normal "
+  },
+  {
+    "src": "images/gradient/opai-14.png",
+    "tag": "<img src=\"images/gradient/opai-14.png\" alt=\"footer-bg\" class=\"size-full object-cover\" />",
+    "context": "\n\r\n  <figure\r\n    data-opai-animate\r\n    data-delay=\"0.4\"\r\n    data-duration=\"1\"\r\n    data-direction=\"right\"\r\n    data-offset=\"100\"\r\n    class=\"pointer-events-none absolute right-[-37%] bottom-[-12%] z-0 h-[500px] w-[500px] select-none lg:right-[-31%] lg:bottom-[-47%] lg:h-full lg:w-full\"\r\n  >\r\n    <img src=\"images/gradient/opai-14.png\" alt=\"footer-bg\" class=\"size-full object-cover\" />\r\n  </figure>\r\n\r\n  <script src=\"vendor/vanilla-infinite-marquee.min.js\" defer></script>\r\n<script src=\"vendor/split-text.min.js\" defer></script>\r\n<script src=\"vendor/scroll-trigger.min.js\" defer></script>\r\n<script"
+  }
+]
